@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravi Roy
-- 👀 I’m interested in research on theoretical physics, python, linux
+- 👀 I’m interested in Theoretical Physics, Python, Linux
 - 🌱 I’m currently reserach scholar at Centre for Theoretical Studies (CTS), IIT Kharagpur
 
 
